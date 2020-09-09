@@ -3,7 +3,7 @@
 import java.math.*;
 import static java.lang.Math.sqrt;
 import java.util.Scanner;
-class Main {
+class MyMain {
   public static int median(int a_med, int b_med, int c_med){
       int med = (a_med+b_med+c_med) / 3;
       return med;
